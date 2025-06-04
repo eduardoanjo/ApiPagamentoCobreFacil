@@ -1,8 +1,8 @@
-Obs.: Projeto ainda não totalemente terminado, se tiver sugestão só enviar mensagem, ou criar um PR.
-
 # Projeto Spring Boot com Gradle
 
 Este projeto é uma aplicação Java utilizando o framework Spring Boot e o sistema de build Gradle. Ele serve como base para desenvolvimento de APIs RESTful, integração com bancos de dados e outras funcionalidades modernas do ecossistema Spring.
+
+Ele foi criado para servir de exemplo com integração com a plataforma de pagamento CobreFacil(https://www.cobrefacil.com.br/)
 
 ## Tecnologias Utilizadas
 
@@ -81,3 +81,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 
 Adapte conforme as particularidades do seu projeto.
+
+Obs.: Projeto ainda não totalemente terminado, se tiver sugestão só enviar mensagem, ou criar um PR. Inclusive eu não consegui AINDA validar o tempo de expiração do token, a cada requisição a plataforma da cobrefacil está gerando um token novo.
