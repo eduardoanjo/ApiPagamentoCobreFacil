@@ -16,6 +16,7 @@ Ele foi criado para servir de exemplo com integração com a plataforma de pagam
 
 ## Estrutura do Projeto
 
+```
 src/
  └── main/
      ├── java/
@@ -29,7 +30,7 @@ src/
      └── resources/
           ├── application.properties
           └── static/
-
+```
 
 ## Como Executar
 
